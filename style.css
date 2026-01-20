@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+
+#counter-value {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+img {
+    margin-top: 10px;
+    border-radius: 8px;
+}
